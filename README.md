@@ -118,18 +118,6 @@ Muestra sesiones activas en el sistema
 
 ---
 
-## 💡 Mejoras Futuras
-
-Este es mi primer script de ciberseguridad. Planea para versiones futuras:
-
-- [ ] Detectar usuarios sin shell válido
-- [ ] Generar reportes en formato CSV/JSON
-- [ ] Alertar si hay cambios en usuarios sudo
-- [ ] Integrar con logs del sistema para análisis temporal
-- [ ] Crear versión interactiva con menú
-
----
-
 ## 📖 Lo que Aprendí
 
 Con este proyecto practiqué:
@@ -157,7 +145,7 @@ Con este proyecto practiqué:
 
 - **GitHub:** [@Ezeayre](https://github.com/Ezeayre)
 - **Interés:** Ciberseguridad, Linux, Scripting
-
+- **Linkedin:**[www.linkedin.com/in/ezequiel-ayre-6b753715b](https://www.linkedin.com/in/ezequiel-ayre-6b753715b) 
 ---
 
 ## 📄 Licencia
